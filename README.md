@@ -16,4 +16,10 @@ This repository is not actively maintained and is solely for educational purpose
 
 # Preview:
 
-![alt text](./Docs/Interface.png?raw=true "The Configuration Overview")
+### The Configuration Overview
+
+![The Configuration Overview](./Docs/Interface.png?raw=true "The Configuration Overview")
+
+### Adding a new Configuration
+
+![Adding a Config](./Docs/Add%20Config.png?raw=true "Adding a Config")
