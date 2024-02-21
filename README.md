@@ -13,3 +13,7 @@ This repository is not actively maintained and is solely for educational purpose
 #### Data binding using BindingList. Ensures dynamic data synchronization. Decoupled from the ui.
 ### 2. Modular UI with Custom ObjectEditor
 #### Similiar to the Windows Forms Editor (with less noise). Allows for automatic UI generation using serializable objects. 
+
+# Preview:
+
+![alt text](relative%20docs/Interface.png?raw=true "The Configuration Overview")
