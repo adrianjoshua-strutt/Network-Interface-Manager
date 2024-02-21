@@ -16,4 +16,4 @@ This repository is not actively maintained and is solely for educational purpose
 
 # Preview:
 
-![alt text](relative%20docs/Interface.png?raw=true "The Configuration Overview")
+![alt text](./Docs/Interface.png?raw=true "The Configuration Overview")
